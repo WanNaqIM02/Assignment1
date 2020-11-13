@@ -1,10 +1,8 @@
 # Assignment1
 # Naq's Portfolio
----
 <p>The website ill be creating will be showcasing the projects and works that i have done during my time in ITE and first year in Immersive Media at Ngee Ann Polytechnic. Hence, videos, demos and images of the projects and works done by me will be showcased on this website.</p>
 
 ## Design Process
----
 
 ### Purpose
 ---
