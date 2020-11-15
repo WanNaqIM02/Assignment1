@@ -8,3 +8,34 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.flex-container{
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+
+}
+
+.flex-container > div{
+    background-color: gray;
+    padding: 24px;
+    font-size: 24px;
+}
+
+.gallery-link{
+    appearance: button;
+    text-decoration: none;
+    color: white;
+}
+
+.video-link{
+    appearance: button;
+    text-decoration: none;
+    color: white;
+}
+
+.demo-link{
+    appearance: button;
+    text-decoration: none;
+    color: white;
+}
+
