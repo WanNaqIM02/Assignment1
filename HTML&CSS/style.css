@@ -27,6 +27,7 @@
     background-color: gray;
     padding: 24px;
     font-size: 24px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .gallery-link{
@@ -45,5 +46,11 @@
     appearance: button;
     text-decoration: none;
     color: white;
+}
+
+.home-link{
+    appearance: button;
+    text-decoration: none;
+    color: black;
 }
 
