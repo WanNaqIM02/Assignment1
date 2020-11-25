@@ -10,7 +10,13 @@
 
 
 .intro{
-    text-align: center;
+    position: relative;
+    display: inline block;
+    margin: auto;
+    width: 1000px;
+    padding: 20px;
+    bottom: -40px;
+    text-align: justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
@@ -30,6 +36,25 @@
     font-size: 24px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.end-container{
+    position: relative;
+    bottom: -100px;
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.end-container > div{
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 24px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 
 .gallery-link{
     appearance: button;
@@ -52,16 +77,45 @@
 .home-link{
     appearance: button;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
+.contactpage-link{
+    appearance: button;
+    text-decoration: none;
+    color: white;
+}
+
+
 .homepagephoto{
+    position: relative;
+    bottom: -20px;
     width: 300px;
     height: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
+.gallery{
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.gallery > div{
+    flex-wrap: wrap;
+    padding: 24px;
+}
+
+.videos{
+    position: relative;
+   
+    margin-left: 20%;
+}
+
+
 
 @media (max-width: 800px){
     .label-container{
