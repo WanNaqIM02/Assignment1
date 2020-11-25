@@ -21,11 +21,11 @@
     background-color: gray;
     justify-content: center;
     flex-direction: row;
-    flex-wrap: wrap;
 }
 
 .label-container > div{
     text-align: center;
+    flex-wrap: wrap ;
     padding: 24px;
     font-size: 24px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
