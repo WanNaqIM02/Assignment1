@@ -21,6 +21,7 @@
     background-color: gray;
     justify-content: center;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .label-container > div{
