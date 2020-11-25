@@ -16,18 +16,18 @@
 }
 
 
-.flex-container{
+.label-container{
     display: flex;
     background-color: gray;
     justify-content: center;
-
+    flex-direction: row;
 }
 
-.flex-container > div{
-    background-color: gray;
+.label-container > div{
+    text-align: center;
     padding: 24px;
     font-size: 24px;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .gallery-link{
@@ -60,5 +60,11 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media (max-width: 800px){
+    .label-container{
+        flex-direction: column;
+    }
 }
 
