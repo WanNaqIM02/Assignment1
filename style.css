@@ -72,35 +72,12 @@
 }
 
 
-.gallery-link{
+.button-link{
     appearance: button;
     text-decoration: none;
     color: white;
 }
 
-.video-link{
-    appearance: button;
-    text-decoration: none;
-    color: white;
-}
-
-.demo-link{
-    appearance: button;
-    text-decoration: none;
-    color: white;
-}
-
-.home-link{
-    appearance: button;
-    text-decoration: none;
-    color: white;
-}
-
-.contactpage-link{
-    appearance: button;
-    text-decoration: none;
-    color: white;
-}
 
 
 .homepagephoto{
