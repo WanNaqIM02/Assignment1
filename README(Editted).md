@@ -48,7 +48,33 @@
 - Adobe XD
 
 ## Testing
+---
+###Contact Page
+---
+1. Goes to contact page.
+2. Tried to click and input in the fields.
+3. Tried to click on the submit button and the website prints ou the message "Form submitted. Thank you!".
+4. Tried to resize the page according to the mobile screen size.
+5. Display the website on both Firefox and Chrome
+---
+###Gallery
+---
+1. Goes to gallery page.
+2. Tried to click on the left and right butoons to change the pictures.
+3. Tried to click on the dots to display the images in the gallery.
+4. Tried to resize the page according to the mobile screen size.
+5. Display the website on both Firefox and Chrome
+
+###Videos & Demos
+---
+1. Go to demo & videos page.
+2. Tried to play the embedded videos in the page.
+3. Tried to resize the page according to the mobile screen size.
+4. Display the website on both Firefox and Chrome
 
 ## Credits
-
+---
+### Acknowledgement
+- Javascript, HTML and CSS attributes were referred from W3schools.com.
+- StackOverflow used as reference for a solution for issues with the codes.
 
