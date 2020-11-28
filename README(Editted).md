@@ -49,7 +49,7 @@
 
 ## Testing
 ---
-###Contact Page
+### Contact Page
 ---
 1. Goes to contact page.
 2. Tried to click and input in the fields.
@@ -57,7 +57,7 @@
 4. Tried to resize the page according to the mobile screen size.
 5. Display the website on both Firefox and Chrome
 ---
-###Gallery
+### Gallery
 ---
 1. Goes to gallery page.
 2. Tried to click on the left and right butoons to change the pictures.
@@ -65,7 +65,7 @@
 4. Tried to resize the page according to the mobile screen size.
 5. Display the website on both Firefox and Chrome
 
-###Videos & Demos
+### Videos & Demos
 ---
 1. Go to demo & videos page.
 2. Tried to play the embedded videos in the page.
