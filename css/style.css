@@ -53,7 +53,6 @@
 
 .end-container{
     margin-bottom: -1em;
-    padding-bottom:auto;
     border-radius: 10px;
     display: flex;
     background-color: #759EB8;
@@ -73,7 +72,6 @@
 
 
 .button-link{
-    appearance: button;
     text-decoration: none;
     color: white;
 }
@@ -202,7 +200,7 @@
     font-size: 20px;
 }
 .video-title{
-   text-decoration: bold;
+    font-weight: bold;
    font-size: 30px;
 }
 
