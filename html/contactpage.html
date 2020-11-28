@@ -9,6 +9,7 @@
        
     </head>
     <body class ="background">
+        <script src = ..\jscript\script.js></script>
         <h1 class ="heading1"> Welcome to my Portfolio </h1>
         <div class="label-container">
             <div> <a href = "..\html\gallery.html" class ="button-link"> Gallery</a></div>
@@ -30,7 +31,7 @@
             <label for="subject">Message</label>
             <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-            <input class = "submitbutton" type="submit" value="Submit">
+            <input id="submitbtn" class = "submitbutton" type="submit" value="Submit" onclick = "formSubmitted()">
         </div>
              
         <div class = "end-container">
